@@ -21,3 +21,19 @@ You joined the company.
 Goal:
 Understand branch structure and remote setup.
 
+## ==> Scenario 2 — First Feature Development
+
+You are assigned:
+
+> Build Login API
+
+=> Rules:
+
+- Must branch from `develop`
+- Branch name format: `feature/login-api`
+- Minimum 3 commits
+- Push branch to remote
+- Do NOT merge directly
+
+Goal:
+Understand feature branch workflow.
